@@ -1,0 +1,375 @@
+body{
+    background-color: black;
+}
+h1{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: outset;
+    border-width: 7px;
+    border-color: white;
+    border-radius: 10px;
+    padding: 6px;
+}          
+#p1{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#p2{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#p3{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#p4{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#p5{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#p6{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#p7{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#mylabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#radiuslabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#oppsidelabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#adjsidelabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#countlabel{
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#mybutton{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 6px 12px;
+}
+#mybutton2{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 6px 12px;
+}
+#mybutton3{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 6px 12px;
+}
+#mybutton4{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 6px 12px;
+}
+#increase{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 6px 12px;
+}
+#reset{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 6px 12px;
+}
+#decrease{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 6px 12px;
+}
+#clickme{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 7px;
+    font-size: 22px;
+    padding: 6px 12px;
+}
+#mybutton5{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 6px 12px;
+}
+#para{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#mailme{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 6px 12px;
+}
+#roll{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 6px 12px;
+}
+#dicelabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#waitlabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#click{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#fnamelabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#lnamelabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#passlabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#maillabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#userlabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#phlabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#datelabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#malelabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#femalelabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#notlabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#resetbt{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 3px 6px;
+}
+#userlabel{
+    color: chartreuse;
+}
+#submitbt{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 3px 6px;
+}
+#paylabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#likelabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#mybutton6{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 3px 6px;
+}
+#subscribelabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#p8{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#p9{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: #FFFFFF;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+#guesslabel{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#submitbutton{
+    background-color:#333333;
+    color: chartreuse;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 3px 6px;
+}
+h3{
+    color: #FFFFFF;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif; 
+}
+#p10{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#p11{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#p12{
+    color: white;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#mytext{
+    background-color: black;
+    color: white;
+}
+#mynumber{
+    background-color: black;
+    color: white;
+}
+#mynumber2{
+    background-color: black;
+    color: white;
+}
+#mynumber3{
+    background-color: black;
+    color: white;
+}
+#fname{
+    background-color: black;
+    color: white;
+}
+#lname{
+    background-color: black;
+    color: white;
+}
+#pass{
+    background-color: black;
+    color: white;
+}
+#date{
+    background-color: black;
+    color: white;
+}
+#mail{
+    background-color: black;
+    color: white;
+}
+#phone{
+    background-color: black;
+    color: white;
+}
+#male{
+    background-color: black;
+    color: white;
+}
+#female{
+    background-color: black;
+    color: white;
+}
+#notsay{
+    background-color: black;
+    color: white;
+}
+#pay{
+    background-color: black;
+    color: white;
+}
+#like{
+    background-color: black;
+    color: white;
+}
+#numberid{
+    background-color: black;
+    color: white;
+}
